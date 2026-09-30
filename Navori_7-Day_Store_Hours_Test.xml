@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stores>
+  <Store>
+    <StoreID>1001</StoreID>
+    <StoreName>Test Store 1001</StoreName>
+    <Monday_Open>9:00 AM</Monday_Open>
+    <Monday_Close>6:00 PM</Monday_Close>
+    <Tuesday_Open>9:00 AM</Tuesday_Open>
+    <Tuesday_Close>6:00 PM</Tuesday_Close>
+    <Wednesday_Open>9:00 AM</Wednesday_Open>
+    <Wednesday_Close>6:00 PM</Wednesday_Close>
+    <Thursday_Open>9:00 AM</Thursday_Open>
+    <Thursday_Close>6:00 PM</Thursday_Close>
+    <Friday_Open>9:00 AM</Friday_Open>
+    <Friday_Close>3:00 PM</Friday_Close>
+    <Saturday_Open>10:00 AM</Saturday_Open>
+    <Saturday_Close>2:00 PM</Saturday_Close>
+    <Sunday_Open>Closed</Sunday_Open>
+    <Sunday_Close>Closed</Sunday_Close>
+    <SpecialMessage>Closed Patriots' Day, Monday, April 20</SpecialMessage>
+  </Store>
+  <Store>
+    <StoreID>1002</StoreID>
+    <StoreName>Test Store 1002</StoreName>
+    <Monday_Open>8:30 AM</Monday_Open>
+    <Monday_Close>5:00 PM</Monday_Close>
+    <Tuesday_Open>8:30 AM</Tuesday_Open>
+    <Tuesday_Close>5:00 PM</Tuesday_Close>
+    <Wednesday_Open>8:30 AM</Wednesday_Open>
+    <Wednesday_Close>5:00 PM</Wednesday_Close>
+    <Thursday_Open>8:30 AM</Thursday_Open>
+    <Thursday_Close>5:00 PM</Thursday_Close>
+    <Friday_Open>8:30 AM</Friday_Open>
+    <Friday_Close>4:00 PM</Friday_Close>
+    <Saturday_Open>9:00 AM</Saturday_Open>
+    <Saturday_Close>1:00 PM</Saturday_Close>
+    <Sunday_Open>Closed</Sunday_Open>
+    <Sunday_Close>Closed</Sunday_Close>
+    <SpecialMessage/>
+  </Store>
+  <Store>
+    <StoreID>1003</StoreID>
+    <StoreName>Test Store 1003</StoreName>
+    <Monday_Open>10:00 AM</Monday_Open>
+    <Monday_Close>7:00 PM</Monday_Close>
+    <Tuesday_Open>10:00 AM</Tuesday_Open>
+    <Tuesday_Close>7:00 PM</Tuesday_Close>
+    <Wednesday_Open>10:00 AM</Wednesday_Open>
+    <Wednesday_Close>7:00 PM</Wednesday_Close>
+    <Thursday_Open>10:00 AM</Thursday_Open>
+    <Thursday_Close>7:00 PM</Thursday_Close>
+    <Friday_Open>10:00 AM</Friday_Open>
+    <Friday_Close>7:00 PM</Friday_Close>
+    <Saturday_Open>10:00 AM</Saturday_Open>
+    <Saturday_Close>4:00 PM</Saturday_Close>
+    <Sunday_Open>11:00 AM</Sunday_Open>
+    <Sunday_Close>3:00 PM</Sunday_Close>
+    <SpecialMessage/>
+  </Store>
+  <Store>
+    <StoreID>1004</StoreID>
+    <StoreName>Test Store 1004</StoreName>
+    <Monday_Open>9:00 AM</Monday_Open>
+    <Monday_Close>5:00 PM</Monday_Close>
+    <Tuesday_Open>9:00 AM</Tuesday_Open>
+    <Tuesday_Close>5:00 PM</Tuesday_Close>
+    <Wednesday_Open>9:00 AM</Wednesday_Open>
+    <Wednesday_Close>5:00 PM</Wednesday_Close>
+    <Thursday_Open>9:00 AM</Thursday_Open>
+    <Thursday_Close>5:00 PM</Thursday_Close>
+    <Friday_Open>9:00 AM</Friday_Open>
+    <Friday_Close>5:00 PM</Friday_Close>
+    <Saturday_Open>Closed</Saturday_Open>
+    <Saturday_Close>Closed</Saturday_Close>
+    <Sunday_Open>Closed</Sunday_Open>
+    <Sunday_Close>Closed</Sunday_Close>
+    <SpecialMessage/>
+  </Store>
+  <Store>
+    <StoreID>1005</StoreID>
+    <StoreName>Test Store 1005</StoreName>
+    <Monday_Open>8:00 AM</Monday_Open>
+    <Monday_Close>8:00 PM</Monday_Close>
+    <Tuesday_Open>8:00 AM</Tuesday_Open>
+    <Tuesday_Close>8:00 PM</Tuesday_Close>
+    <Wednesday_Open>8:00 AM</Wednesday_Open>
+    <Wednesday_Close>8:00 PM</Wednesday_Close>
+    <Thursday_Open>8:00 AM</Thursday_Open>
+    <Thursday_Close>8:00 PM</Thursday_Close>
+    <Friday_Open>8:00 AM</Friday_Open>
+    <Friday_Close>8:00 PM</Friday_Close>
+    <Saturday_Open>9:00 AM</Saturday_Open>
+    <Saturday_Close>5:00 PM</Saturday_Close>
+    <Sunday_Open>10:00 AM</Sunday_Open>
+    <Sunday_Close>4:00 PM</Sunday_Close>
+    <SpecialMessage>Holiday hours may vary</SpecialMessage>
+  </Store>
+</Stores>
